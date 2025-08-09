@@ -95,13 +95,16 @@ Example: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris) or a custo
    ```
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/classifier_report.png" width="800" alt="Portfolio Preview" />
+</p>
+
+---
+
 ## 📄 License
  This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-
-
 
  
 
