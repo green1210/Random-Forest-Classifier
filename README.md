@@ -1,7 +1,6 @@
 # 🌲 Random Forest Classifier
 
 This project implements a **Random Forest Classifier** for classification tasks using Python's `scikit-learn` library.  
-It was developed as part of my **Machine Learning internship** at **Codveda Technologies**.
 
 ---
 
