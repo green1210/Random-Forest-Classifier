@@ -98,7 +98,7 @@ Example: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris) or a custo
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/classifier_report.png" width="800" alt="Portfolio Preview" />
+  <img src="./screenshots/classification_report.png" width="800" alt="Classification Report" />
 </p>
 
 ---
