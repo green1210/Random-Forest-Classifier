@@ -87,7 +87,8 @@ Example: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris) or a custo
 
     accuracy                           0.96       134
    macro avg       0.94      0.86      0.90       134
-weighted avg       0.96      0.96      0.96       134
+   weighted avg    0.96      0.96      0.96       134
+
 3. Cross-validated F1-score:
    ```lua
    0.6264
